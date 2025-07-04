@@ -1,0 +1,33 @@
+{
+  "name": "arawe-kg.github.io",
+  "version": "1.0.0",
+  "description": "Документация по разработке",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arawe-kg/arawe-kg.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/arawe-kg/arawe-kg.github.io/issues"
+  },
+  "homepage": "https://github.com/arawe-kg/arawe-kg.github.io#readme",
+  "devDependencies": {
+    "@semantic-release/git": "^10.0.1",
+    "semantic-release": "^24.2.6"
+  },
+  "release": {
+    "plugins": [
+      "@semantic-release/git"
+    ]
+  }
+}
