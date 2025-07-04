@@ -1,0 +1,7 @@
+site_name: CodeX
+theme: material
+nav:
+    - index.md
+    - common.md
+    - frontend.md
+    - backend.md
