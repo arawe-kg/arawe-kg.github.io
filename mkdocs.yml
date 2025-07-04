@@ -5,3 +5,4 @@ nav:
     - common.md
     - frontend.md
     - backend.md
+    - deployment.md
