@@ -6,3 +6,9 @@
 
 - MkDocs
 - Semantic Release
+
+## Build
+
+```
+mkdocs gh-pages
+```
